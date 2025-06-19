@@ -1,0 +1,18 @@
+---
+
+### 📄 LICENSE
+Use the [MIT License](https://choosealicense.com/licenses/mit/)
+
+---
+
+## 🚀 Upload to GitHub
+
+Once the files are ready:
+
+```bash
+cd path/to/directory-traversal-demo
+git init
+git remote add origin https://github.com/yourusername/directory-traversal-demo.git
+git add .
+git commit -m "Initial commit: directory traversal demo"
+git push -u origin master

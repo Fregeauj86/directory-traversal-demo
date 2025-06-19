@@ -18,3 +18,8 @@ python app.py
 Here's what a directory traversal attack looks like:
 
 ![Directory Traversal Example](C:\..\..\..\images)
+
+## 🔐 Secure Version
+Here's what a directory traversal attack looks like being blocked:
+
+![Secure Example](images/secure-example.png)

@@ -17,9 +17,10 @@ python app.py
 ## 💣 Vulnerable Version
 Here's what a directory traversal attack looks like:
 
-![Directory Traversal Example](C:\..\..\..\images)
+![Directory Traversal Example](https://github.com/Fregeauj86/directory-traversal-demo/blob/main/images/vulnerable%20example1.png)
+![Directory Traversal Example 2](https://github.com/Fregeauj86/directory-traversal-demo/blob/main/images/vulnerable%20example2.png)
 
-## 🔐 Secure Version
+## 🔐 Secure Example
 Here's what a directory traversal attack looks like being blocked:
 
-![Secure Example](images/secure-example.png)
+![Secure Example](https://github.com/Fregeauj86/directory-traversal-demo/blob/main/images/Secure%20Example1.png)

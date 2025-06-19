@@ -13,3 +13,8 @@ This is an intentionally vulnerable demo. Do **not** use this in production envi
 ```bash
 pip install flask
 python app.py
+
+## 💣 Vulnerable Version
+Here's what a directory traversal attack looks like:
+
+![Directory Traversal Example](C:\..\..\..\images)
